@@ -13,10 +13,6 @@ double randfrom(double min, double max);
 
 int main(int argc, char *argv[]){
 
-	// Definicion del main
-	
-
-//------------------ MAIN DE EJEMPLO PARA VISUALIZAR CON VMD ------------------//
 	int N, i, j, k, runs, N_I, N_R, N_S, N_frames, runs_max;
 	double D, rho, d, lambda, P_contagio, rnd, mu, p_j, v_mod, r_theta, v_x, v_y;
 	float r_x, r_y; 
